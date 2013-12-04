@@ -2,14 +2,34 @@
 
 A generator for [Yeoman](http://yeoman.io).
 
-
 ## Getting Started
 
 ### What is Yeoman?
 
 Trick question. It's not a thing. It's this guy:
 
-![](http://i.imgur.com/JHaAlBJ.png)
+```aa
+　　　　　　　　,　　　　　　　　　　　　　　　　　　　　､ 
+　　　　　　 ／　　　　　　　　　　　　　　　　　　　　　＼ 
+　　　　　／　　　　　　　　　　　　　　　　　　　　　　　　＼ 
+　　　　/　　　　　　　ｌ　　　　　　　　　　　　　　　 　 　 　 ヽ 
+　　　　　　　　　　　 ﾊ　　　 　 l ､　　 　 ｌ　　 ｌ　　　　 　 　 . 
+　　　 | 　 　 　 .ｌ　 /　 、 　 　 |　＼　　 |、　 |　 　 　 　 　 | 
+　　　 |　 　 　 /| ./　　 ヽ　　　|　　 ＼ ｜＼ |　 　 　 　 　 |　　　 
+　　　 |　　 　 / |/　 ./ 　 ＼　 |　｀　ーヽ‐　､ ヽ 　 　 　 　 | 
+　 　 　 　 　 /,　― '　 　 　 ＼| 　 ,　=＝＝ミ.　V　　　　　　　 
+　 　 /　　 { /　 , =＝ミ､　　　 　 〃{//////ﾊヽ |　 　 　 　 ､ 
+　　/　　　 V　〃////ﾊ　　 　 　 　 V/////:ﾉ　 |　 ｌへ　 　 ヽ 
+　/／ 　 　 ﾍ { {/////ﾉ　　　　 　 　 =＝＝=　　|　 |＾　}　　　 ＼ 
+　　　|　 　 　 ､ ヾ =＝　　　　　 　 　 　 　 / /　 |　 '　./　　　ﾄー' 
+　　　| 　 　 　 }　/ /　　　　 　 　 　 ハ　　　　　 | ./／　| 、　| 
+　　　 .　 ﾊ　　{　　 　 　 　 ‐r―‐　´　}　　 　 ／|/　 　 .|　＼| 
+　　　 ∨　　　 ヽ、　　　　 　 ､＿＿ ノ　 ,　イ　　　　ﾊ.　| 
+　　　 　 　 |　ﾊ　ﾊ＞‐/^^^^ヽ‐r－r:＜ﾊ:ミ＜Λ/∨　ヽ| 
+　　　 　 　 |/　∨ ∨/＝＝=/ヽ_><_／　|　 　 ＼ 
+　　 　 　 　 　 　 　 /　　　 ./> | ∨ ./ ＜　　/　 | 
+　　　　　　　　　　 /　　　 ./＼ | ハ/　／　 / 　 .| 
+```
 
 Basically, he wears a top hat, lives in your computer, and waits for you to tell him what kind of application you wish to create.
 
