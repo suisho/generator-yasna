@@ -6,7 +6,7 @@ A generator for [Yeoman](http://yeoman.io).
 
 ### What is Yeoman?
 
-Trick question. It's not a thing. It's this guy:
+Trick question. It's not a thing. It's this Yasna:
 
 ```aa
 　　　　　　　　,　　　　　　　　　　　　　　　　　　　　､ 
