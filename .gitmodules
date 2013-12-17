@@ -1,0 +1,3 @@
+[submodule "sornya"]
+	path = sornya
+	url = git@github.com:suisho/sornya.git

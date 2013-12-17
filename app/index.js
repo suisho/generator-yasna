@@ -42,6 +42,7 @@ YasnaGenerator.prototype.app = function app() {
 
   this.copy('_package.json', 'package.json');
   this.copy('_bower.json', 'bower.json');
+  this.copy('Gruntfile.coffee', 'Gruntfile.coffee');
 };
 
 YasnaGenerator.prototype.projectfiles = function projectfiles() {

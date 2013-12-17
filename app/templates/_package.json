@@ -1,5 +1,9 @@
 {
   "name": "package",
   "version": "0.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "grunt-bower-task": "~0.3.4",
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
 }
